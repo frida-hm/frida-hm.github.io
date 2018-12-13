@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Frida blog
+description:    "디자이너 김혜민의 블로그입니다. spoqa에서 일하고 있습니다."
 baseurl:        ""
-url:            "https://chesterhow.github.io"
+url:            "https://frida-hm.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Frida
+  url:          https://frida-hm.github.io
+  email:        heamin.hm.kim@gmail.com
 
 # Build settings
 markdown:       kramdown
